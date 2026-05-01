@@ -4,7 +4,6 @@
 
 ### 1. Proposed JSON Schema (`posts` collection)
 ```json
-// Provide your single document structure here
 {
   "_id": ObjectId(),
   "title": "DevConnect",
